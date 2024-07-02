@@ -10,7 +10,7 @@ Students who pass this course should be able to:
 2. Apply fundamental concepts and techniques of AI to specific problems (including engineering applications).
 
 ## Assignments
-- [A1 kNN and Decision Trees](./A1 knn and decision tree/README.md)
-- [A2 Neural Networks and Probability](./A2 neural networks and probability/README.md)
-- [A3 Bayesian Networks](./A3 bayesian network/README.md)
-- [A4 Scheduling and Routing](./A4 scheduling and routing/README.md)
+- [A1 kNN and Decision Trees](./A1-knn-and-decision-tree/README.md)
+- [A2 Neural Networks and Probability](./A2-neural-networks-and-probability/README.md)
+- [A3 Bayesian Networks](./A3-bayesian-network/README.md)
+- [A4 Scheduling and Routing](./A4-scheduling-and-routing/README.md)

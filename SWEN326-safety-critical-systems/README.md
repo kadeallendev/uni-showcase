@@ -14,4 +14,4 @@ Students who pass this course should be able to:
 
 ## Assignments
 
-There was only one assignment for this course, a [group project](./avionics system/README.md)
+There was only one assignment for this course, a [group project](./avionics-system/README.md)
