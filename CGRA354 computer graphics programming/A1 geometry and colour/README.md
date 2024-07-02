@@ -1,5 +1,3 @@
->This project is an assignment for VUW course CGRA 354
-
 # CGRA 354 A1: Geometry and Colour
 
 This was an OpenGL assignment that involved the following:
@@ -9,7 +7,7 @@ This was an OpenGL assignment that involved the following:
 - Add controls to the GUI to allow for the control of a light source's position or direction
 - Incorporate the light into the scene with a shader program
 
-![The initial scene](./examples/initial-scene.png)
-![With a different colour](./examples/yellow.png)
-![With a different light position](./examples/blue-bottom-light.png)
+![The initial scene](./initial-scene.png)
+![With a different colour](./yellow.png)
+![With a different light position](./blue-bottom-light.png)
 
