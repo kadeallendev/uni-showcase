@@ -15,8 +15,8 @@ Students who pass this course will be able to:
 
 ## Assignments
 
-- [A1: Relational data model](./A1 relational data model/README.md)
-- [A2: Relational algebra and Query optimization](./A2 relational algebra and query optimization/README.md)
-- [A3: Functional dependencies and Normal forms](./A3 functional dependencies and normal forms/README.md)
-- [P1: Robbery database](./P1 robbery database/README.md)
-- [P2: Library database](./P2 library database/README.md)
+- [A1 Relational data model](./A1 relational data model/README.md)
+- [A2 Relational algebra and Query optimization](./A2 relational algebra and query optimization/README.md)
+- [A3 Functional dependencies and Normal forms](./A3 functional dependencies and normal forms/README.md)
+- [P1 Robbery database](./P1 robbery database/README.md)
+- [P2 Library database](./P2 library database/README.md)

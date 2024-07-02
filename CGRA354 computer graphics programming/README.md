@@ -13,7 +13,7 @@ Students who pass this course should be able to:
 
 ## Assignments
 
-- [A1: Geometry and Colour](./A1 geometry and colour/README.md)
-- [A2: Transformations and Shading](./A2 transformations and shading/README.md)
-- [A3: Flocking boids](./A3 flocking boids/README.md)
-- [A4: Raytracing](./A4 raytracing/README.md)
+- [A1 Geometry and Colour](./A1 geometry and colour/README.md)
+- [A2 Transformations and Shading](./A2 transformations and shading/README.md)
+- [A3 Flocking boids](./A3 flocking boids/README.md)
+- [A4 Raytracing](./A4 raytracing/README.md)
