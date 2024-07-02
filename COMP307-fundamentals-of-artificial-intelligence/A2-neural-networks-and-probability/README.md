@@ -6,7 +6,7 @@ This assignment consisted of three parts.
 
 This part involved some probability calculations.
 
-## Part 1: Perceptron
+## Part 2: Perceptron
 
 The first part involved implementing a simple, single-layer perceptron. The perceptron would be trained on a data set of radar samples, and would classify instances into two classes.
 A perceptron works by taking a list of inputs, multiplying them by the perceptron's weights, adding the bias node's value, and then passing the output through an activation function (unit step function in this case) to get the final prediction.
