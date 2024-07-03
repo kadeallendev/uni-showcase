@@ -12,3 +12,8 @@ This course considers the issues raised when programming at a low-level, for exa
 6. Understand the differences between application software and system software.
 
 ## Assignments
+
+- [A1: C String Manipulation](./A1.md)
+- [A2: Simple Database in C](./A2.md)
+- [A3: File Server in C](./A3.md)
+- [A4: Object-Oriented Database in C++](./A4.md)
