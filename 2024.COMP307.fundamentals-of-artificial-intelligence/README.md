@@ -4,8 +4,6 @@ This course addresses key ideas and techniques of artificial intelligence (AI). 
 
 ## Course learning objectives
 
-Students who pass this course should be able to:
-
 1. Understand and explain fundamental concepts and techniques of artificial intelligence, in areas such as search, machine learning, evolutionary computing.
 2. Apply fundamental concepts and techniques of AI to specific problems (including engineering applications).
 
