@@ -10,5 +10,5 @@ This course addresses key ideas and techniques of artificial intelligence (AI). 
 ## Assignments
 - [A1 kNN and Decision Trees](./A1-knn-and-decision-tree/README.md)
 - [A2 Neural Networks and Probability](./A2-neural-networks-and-probability/README.md)
-- [A3 Bayesian Networks](./A3-bayesian-network/README.md)
+- [A3 Bayesian Networks](./A3-bayesian-probability/README.md)
 - [A4 Scheduling and Routing](./A4-scheduling-and-routing/README.md)
